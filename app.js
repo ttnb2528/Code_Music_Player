@@ -41,10 +41,10 @@ const app = {
         },
 
         {
-            name: 'Nơi tình yêu bắt đầu',
-            singer: 'Bùi Anh Tuấn',
-            path: './assets/music/Nơi Tình Yêu Bắt Đầu.mp3',
-            image: './assets/img/Nơi tình yêu bắt đầu.jpg'
+            name: 'Đập vỡ cây đàn',
+            singer: 'Dương Quốc Lợi',
+            path: './assets/music/LoiCute.mp3',
+            image: './assets/img/LoiCute.jpg'
         },
 
         {
