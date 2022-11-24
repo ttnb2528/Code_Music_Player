@@ -34,17 +34,17 @@ const app = {
     config: JSON.parse(localStorage.getItem(PLAYER_STORAGE_kEY)) || {},
     songs: [
         {
-            name: 'Let My Down Slowly',
-            singer: 'Alec Benjamin',
-            path: './assets/music/Let Me Down Slowly.mp3',
-            image: './assets/img/Let me down.jpg'
-        },
-
-        {
             name: 'Đập vỡ cây đàn',
             singer: 'Dương Quốc Lợi',
             path: './assets/music/LoiCute.mp3',
             image: './assets/img/LoiCute.jpg'
+        },
+        
+        {
+            name: 'Let My Down Slowly',
+            singer: 'Alec Benjamin',
+            path: './assets/music/Let Me Down Slowly.mp3',
+            image: './assets/img/Let me down.jpg'
         },
 
         {
